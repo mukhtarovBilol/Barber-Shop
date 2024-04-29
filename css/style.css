@@ -129,17 +129,7 @@
     height: 50px;
     left: 48%;
     top: 95%;
-    /* animation: down infinite 1s; */
 }
-
-/* @keyframes down {
-    0%{
-        transform: translateY(-15%);
-    }
-    100% {
-        transform: translateY(0);
-    }
-} */
 
 .advantages__title {
     font-family: "Sports";
@@ -213,6 +203,13 @@
     .advantages__desc {
         display: flex;
         flex-direction: column;
+    }
+}
+
+@media (max-width: 992px) {
+    .advantages::before {
+        top: 98%;
+        left: 47%;
     }
 }
 
