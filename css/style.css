@@ -423,6 +423,7 @@
     font-family: "Sports";
     font-size: clamp(45px, 3vw, 60px);
     color: #fff;
+    text-align: center;
 }
 
 .info__description span {
@@ -491,19 +492,16 @@
     gap: 15px;
 }
 
-.info__contact {
+.info__btn {
     color: #212123;
     font-weight: 700;
     font-size: 20px;
-}
-
-.info__btn {
-    margin: 0 auto;
-    text-align: center;
     max-width: 284px;
-    margin-top: 78px;
     width: 100%;
-    background: #FFCB75;
+    margin: 0 auto;
+    margin-top: 78px;
+    display: block;
+    text-align: center;
     padding: 15px 36px;
     border-radius: 15px;
     background: linear-gradient(to left, #ffcb79, #FFD693 95%);
