@@ -1,0 +1,36 @@
+/* Montserrat */
+@font-face {
+    src: url(../fonts/Montserrat/Montserrat-Bold.ttf);
+    font-family: "Montserrat";
+    font-weight: 700;
+}
+
+@font-face {
+    src: url(../fonts/Montserrat/Montserrat-SemiBold.ttf);
+    font-family: "Montserrat";
+    font-weight: 600;
+}
+
+@font-face {
+    src: url(../fonts/Montserrat/Montserrat-Medium.ttf);
+    font-family: "Montserrat";
+    font-weight: 500;
+}
+
+@font-face {
+    src: url(../fonts/Montserrat/Montserrat-Regular.ttf);
+    font-family: "Montserrat";
+    font-weight: 400;
+}
+
+/* Montserrat */
+
+/* Sports World */
+
+@font-face {
+    src: url(../fonts/Sports-World-Regular.ttf);
+    font-family: "Sports";
+    font-weight: 400;
+}
+
+/* Sports World */
